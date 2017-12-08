@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="70dp"
+            android:layout_marginTop="75dp"
             app:srcCompat="@drawable/ball1"
             tools:ignore="ContentDescription" />
     </RelativeLayout>
@@ -58,8 +58,9 @@
             android:text="Ask"
             android:textAllCaps="false"
             android:textColor="@android:color/background_light"
-            android:layout_centerVertical="true"
-            android:layout_centerHorizontal="true" />
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="68dp" />
     </RelativeLayout>
 
 </LinearLayout>
