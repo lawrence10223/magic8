@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_d4171b3a01bd81510a87bf34b7cda237366ed40d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.android/build-cache/c8448f1be9fc443d3c24f64d60c723e5d5e66392/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8038d2abdfc2dfd3083f2943e21f4f146030a466/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.android/build-cache/f76c9c9e2467f4788f74fe7936a57573dd81f41d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c15c35337371be44e80cc27a33264f9053e92531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.android/build-cache/da79ee7027f3109fe71cc63f8a46bf7021d497e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bf68bbd1fc81d14c88802e4713662a904ff172b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.android/build-cache/fd9cf20f65a4e5cfbf47d9489fc8503a5b0c3feb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b4b73988b85c57d978db26dc9acafd3301781f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.android/build-cache/05b0820f3d45bd9b047caa4d030a994d7d48e04b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8000d0938f75239b6e7a5b38d7737cc8a5d3696/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_078e7fcc5c07289f2f3f24b55151df28b10c4669/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_4da58042ce58c57c9978ab9d61eff36b07b02b2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.android/build-cache/2d2b83e686000f5b892d3fca5c020537255bb586/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7719ab5eb65186f26fc6ad8056506d4afd42d105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4c8de5ea58d093102a52b0d22e6e03e4680bd973">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_41bc591fec98995bfdf94722986677a3c7f1fd52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c846a3fe70a3613d275f581dba376831c6794ed6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.android/build-cache/55807cb53a0d8b4028c1496a1bb518b0131649ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93cd87bc1471d71aea93ac536ac10fc539836cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.android/build-cache/477d6653697860f9691bb58d68d45660c4db2738/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d13ef70a222fc381bdb9cf568c027ec17c249bd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.android/build-cache/e84c6a2e0c78f24aa384a5050f5eefbdc8b5c0d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02c231add23fbb92c9b88a813cd7914a1f613255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aiden/.android/build-cache/6a4701c254bedf66bbf7338142eb0ebabe486ab8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/aiden/AndroidStudioProjects/magic-8-ball-android-lawrence10223/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_642ad5b561cbeb7398e1ca1e3b6f71aaf035ee63/classes.dex" />
+    </item>
+
+</items>
